@@ -25,20 +25,37 @@
     "2025-12-28",
     "2026-01-01",
     "2026-01-02",
-    "2026-01-03"
+    "2026-01-03",
+    "2026-01-22",
+    "2026-01-23",
+    "2026-01-24",
+    "2026-01-25",
+    "2026-03-21",
+    "2026-03-22",
+    "2026-03-26"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-03-26T07:00:00.000Z",
+    "start": "2026-03-26T00:00:00.000Z",
+    "end": "2026-03-26T00:00:00.000Z",
+    "ttl": 1774575919
   },
   "longest_daily_streak": {
     "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-01-10T08:00:00.000Z",
-    "start": "2025-01-07T00:00:00.000Z",
-    "end": "2025-01-10T00:00:00.000Z"
+    "utcEndTime": "2026-01-25T08:00:00.000Z",
+    "start": "2026-01-22T00:00:00.000Z",
+    "end": "2026-01-25T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-03-26T07:00:00.000Z",
+    "start": "2026-03-21T00:00:00.000Z",
+    "end": "2026-03-26T00:00:00.000Z",
+    "ttl": 1774575919
   },
   "longest_weekly_streak": {
     "duration": 5,
@@ -47,7 +64,7 @@
     "start": "2025-01-25T00:00:00.000Z",
     "end": "2025-02-18T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {
       "TITLES_READ_YEAR_2026": {
@@ -57,6 +74,14 @@
       }
     },
     "titles_read": [
+      {
+        "asin": "E0F992AB43F24F77A039BA63030F06B8",
+        "read_event_id": "387ee3b2-3240-45f2-b6a0-919d1d992aef",
+        "date_read": "2026-01-25T05:10:53-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "F1ED09EF1AE04818B2E4736EBD2B97E1",
         "read_event_id": "7cc5651c-749f-4827-8b38-2e5bcc4feb7d",
@@ -120,13 +145,13 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 6,
+    "daysLeftInCurrentChallenge": 5,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
-        "quantity": 1,
+        "quantity": 2,
         "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
@@ -146,9 +171,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_6a55c846-0c52-3449-a1e7-55d7fb6cdef4.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_6b75e39a-c235-379a-bb31-7de2b60acb90.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
